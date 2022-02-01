@@ -1,8 +1,6 @@
 # Live Demo
 
 
-In the project directory, you can run:
-
 ##Full stack, Disney+ CLONE using React, Firebase, Redux, and Styled Components... 👇
 
 - 👉 Building a Disney+ Clone App 💻
