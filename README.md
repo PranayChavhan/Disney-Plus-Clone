@@ -5,10 +5,10 @@ In the project directory, you can run:
 
 ##Full stack, Disney+ CLONE using React, Firebase, Redux, and Styled Components... 👇
 
-👉 Building a Disney+ Clone App 💻
-👉 How to handle authentication with Firebase 🔑
-👉 How to upload images to Firebase Storage and use them on your site! 🖥️
-👉 Real-time database with Firebase’s Firestore 🔥
+- 👉 Building a Disney+ Clone App 💻
+- 👉 How to handle authentication with Firebase 🔑
+- 👉 How to upload images to Firebase Storage and use them on your site! 🖥️
+- 👉 Real-time database with Firebase’s Firestore 🔥
 
 https://user-images.githubusercontent.com/85397500/151995508-5907cafc-651d-4d90-852f-ac03e348ff38.mp4
 
